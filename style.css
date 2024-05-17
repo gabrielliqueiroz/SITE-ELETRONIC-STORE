@@ -55,20 +55,20 @@ body {
 }
 
 .arduino {
-    width: 10%;
+    width: 20%;
     display: inline;
     padding: 30px;
 
 }
 
 .protoboard {
-    width: 40%;
+    width: 20%;
     display: inline;
     padding: 120px;
 }
 
 .multimetro {
-    width: 40%;
+    width: 20%;
     margin-right: 30px;
 }
 
