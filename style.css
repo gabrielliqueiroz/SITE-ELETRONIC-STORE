@@ -61,7 +61,7 @@ body {
 }
 
 .protoboard {
-    width: 25%;
+    width: 15%;
     display: inline;
     padding: 120px;
 }
@@ -80,9 +80,9 @@ body {
 }
 
 .sensor-LDR {
-    width: 15%;
+    width: 10%;
     display: inline;
-    padding: 20px;
+    padding: 15px;
     margin-left: 150px;
 }
 
