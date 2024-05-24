@@ -5,7 +5,7 @@ header {
 
 .cabecalho {
     color: white;
-    margin-left: 660px;
+    margin-left: 600px;
     text-align: center;
     display: flex;
 }
@@ -50,7 +50,7 @@ body {
 }
 
 .paragrafo-2 {
-    margin-left: 50px;
+    margin-left: 100px;
     justify-content: center;   
 }
 
