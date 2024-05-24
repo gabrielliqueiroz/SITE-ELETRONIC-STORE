@@ -12,7 +12,7 @@ header {
 
 .cabecalho-lista-1 {
     color: white;
-    margin-left: 300px; /*alinhamento à esquerda*/
+    margin-left: 360px; /*alinhamento à esquerda*/
     padding: 40px; /*espaçamento vertical*/
     display: inline-block;
     justify-content: center;
@@ -20,7 +20,7 @@ header {
 
 .cabecalho-lista-2 {
     color: white;
-    margin-left: 300px;
+    margin-left: 360px;
     padding: 40px;
     display: inline-block;
     justify-content: center;
@@ -50,7 +50,7 @@ body {
 }
 
 .paragrafo-2 {
-    margin-left: 20px;
+    margin-left: 50px;
     justify-content: center;
 }
 
@@ -110,7 +110,7 @@ p {
     width: 25%;
     display: inline-block;
     margin-left: 25px;
-    margin-right: 80px;
+    margin-right: 50px;
     text-align: center;
 }
 
@@ -118,6 +118,6 @@ p {
     width: 25%;
     display: inline-block;
     margin-left: 25px;
-    margin-right: 80px;
+    margin-right: 50px;
     text-align: center;
 }
