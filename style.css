@@ -5,14 +5,14 @@ header {
 
 .cabecalho {
     color: white;
-    margin-left: 800px;
+    margin-left: 200px;
     text-align: center;
     display: flex;
 }
 
 .cabecalho-lista-1 {
     color: white;
-    margin-left: 360px; /*alinhamento à esquerda*/
+    margin-left: 200px; /*alinhamento à esquerda*/
     padding: 40px; /*espaçamento vertical*/
     display: inline-block;
     justify-content: center;
@@ -20,7 +20,7 @@ header {
 
 .cabecalho-lista-2 {
     color: white;
-    margin-left: 360px;
+    margin-left: 200px;
     padding: 40px;
     display: inline-block;
     justify-content: center;
