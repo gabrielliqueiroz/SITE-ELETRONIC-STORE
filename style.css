@@ -61,7 +61,7 @@ body {
 }
 
 .protoboard {
-    width: 40%;
+    width: 25%;
     display: inline;
     padding: 120px;
 }
@@ -72,7 +72,7 @@ body {
 }
 
 .capacitor {
-    width: 40%;
+    width: 50%;
     display: inline;
     padding: 30px;
     margin-left: 60px;
@@ -80,7 +80,7 @@ body {
 }
 
 .sensor-LDR {
-    width: 10%;
+    width: 15%;
     display: inline;
     padding: 20px;
     margin-left: 150px;
