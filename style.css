@@ -51,18 +51,17 @@ body {
 
 .paragrafo-2 {
     margin-left: 50px;
-    justify-content: center;
+    justify-content: center;   
 }
 
 .arduino {
-    width: 40%;
+    width: 20%;
     display: inline;
     padding: 30px;
-
 }
 
 .protoboard {
-    width: 40%;
+    width: 20%;
     display: inline;
     padding: 120px;
 }
@@ -81,14 +80,14 @@ body {
 }
 
 .sensor-LDR {
-    width: 40%;
+    width: 20%;
     display: inline;
     padding: 20px;
     margin-left: 150px;
 }
 
 .LED {
-    width: 40%;
+    width: 20%;
     display: inline;
     padding: 20px;
     margin-left: 140px;
