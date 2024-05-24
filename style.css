@@ -5,7 +5,7 @@ header {
 
 .cabecalho {
     color: white;
-    margin-left: 360px;
+    margin-left: 350px;
     text-align: center;
     display: flex;
 }
@@ -50,7 +50,7 @@ body {
 }
 
 .paragrafo-2 {
-    margin-left: 100px;
+    margin-left: 400px;
     justify-content: center;   
 }
 
@@ -61,7 +61,7 @@ body {
 }
 
 .protoboard {
-    width: 15%;
+    width: 25%;
     display: inline;
     padding: 120px;
 }
