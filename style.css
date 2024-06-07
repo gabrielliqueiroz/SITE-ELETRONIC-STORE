@@ -80,8 +80,6 @@ body {
 }
 
 .sensor-LDR {
-    width: 10%;
-    display: inline;
     padding: 15px;
     margin-left: 150px;
 }
